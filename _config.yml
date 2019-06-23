@@ -1,0 +1,21 @@
+title: CoderDojo印西
+description: >-
+    千葉県印西市で実施されている子ども向けプログラミングクラブ CoderDojo 印西
+baseurl: ""
+url: "https://inzai.coderdojo.chiba.jp"
+lang: "ja"
+
+markdown: kramdown
+theme: minima
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
